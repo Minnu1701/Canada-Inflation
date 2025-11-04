@@ -1,4 +1,4 @@
-# 🇨🇦 The Price We Pay: How Inflation Affects Everyday Canadians  
+# The Price We Pay: How Inflation Affects Everyday Canadians  
 
 This Tableau Story visualizes how **inflation trends** from 2019–2024 have impacted the **cost of living** in Canada — focusing on **food, rent, gas, and clothing** prices based on **Statistics Canada CPI data**.
 
@@ -26,7 +26,7 @@ This Tableau Story visualizes how **inflation trends** from 2019–2024 have imp
 ---
 
 ## 🌐 Live Visualization
-🔗 [View the Tableau Story on Tableau Public]((https://public.tableau.com/app/profile/minnu.varghese3871/viz/CanadaInflation/Story7))
+🔗 [View the Tableau Story on Tableau Public](https://public.tableau.com/app/profile/minnu.varghese3871/viz/CanadaInflation/Story7)
 
 ---
 
