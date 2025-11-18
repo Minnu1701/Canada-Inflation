@@ -4,7 +4,7 @@ This Tableau Story visualizes how **inflation trends** from 2019–2024 have imp
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 - **Objective:** Show the real-world impact of inflation on essential goods and services.
 - **Data Source:** Statistics Canada – Consumer Price Index (CPI)
 - **Time Period:** January 2019 – August 2024
@@ -12,25 +12,22 @@ This Tableau Story visualizes how **inflation trends** from 2019–2024 have imp
 
 ---
 
-## 🧩 Key Insights
-- 🍞 **Food** prices rose the fastest post-pandemic, especially meat and dairy.  
-- 🏠 **Rent** continued a steady upward trend despite regional variations.  
-- ⛽ **Gasoline** prices peaked sharply in 2022 before stabilizing.  
-- 👕 **Clothing** prices remained comparatively stable.
+##  Key Insights
+-  **Food** prices rose the fastest post-pandemic, especially meat and dairy.  
+-  **Rent** continued a steady upward trend despite regional variations.  
+-  **Gasoline** prices peaked sharply in 2022 before stabilizing.  
+-  **Clothing** prices remained comparatively stable.
 
 ---
 
-## 🖼️ Dashboard Preview
-![Canada Inflation Dashboard](dashboard_preview.png)
+
+
+##  Live Visualization
+ [View the Tableau Story on Tableau Public](https://public.tableau.com/app/profile/minnu.varghese3871/viz/CanadaInflation/Story7)
 
 ---
 
-## 🌐 Live Visualization
-🔗 [View the Tableau Story on Tableau Public](https://public.tableau.com/app/profile/minnu.varghese3871/viz/CanadaInflation/Story7)
-
----
-
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - Data sourcing & cleaning using Excel  
 - KPI and trend visualization in Tableau  
 - Storytelling with data-driven insights  
@@ -38,5 +35,5 @@ This Tableau Story visualizes how **inflation trends** from 2019–2024 have imp
 
 ---
 
-## 👩‍💻 Author
+##  Author
 **Minnu Varghese**
